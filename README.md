@@ -13,7 +13,7 @@ Package has two array utility functions, such as addELements and removeElements 
 
 - License: Package has an appropriate "MIT License" 
 
-- Version: Package version follows Semantic Versioning (SemVer) as version 1.0.3
+- Version: Package version follows Semantic Versioning (SemVer) as version 1.1.3
 
 
 ## Package's npm link: https://www.npmjs.com/package/node-assignment-04?activeTab=readme
