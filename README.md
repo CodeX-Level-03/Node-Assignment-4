@@ -12,9 +12,9 @@ Implemented two array utility functions, such as addELements and removeElements 
 ### Step 3: Prepared for Publishing
 - Documentation: Wrote README.md file explaining what this package does, how to install it, and how to use the array utilities.
 
-- License: Choose an appropriate license for the package (e.g., MIT) by editing the package.json file, under "License" 
+- License: Chose an appropriate license for the package (e.g., MIT) by editing "License" in package.json file. 
 
-- Versioning: Package version follows Semantic Versioning (SemVer) in this case version 1.0.0
+- Version: Package version follows Semantic Versioning (SemVer) in this case version 1.0.0
 
 - .npmignore: Created a .npmignore file to exclude unnecessary files (e.g., README file) from the published package.
 
