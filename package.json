@@ -1,6 +1,6 @@
 {
   "name": "node-assignment-04",
-  "version": "1.0.3",
+  "version": "1.1.3",
   "description": "",
   "type": "module",
   "main": "index.js",
@@ -10,7 +10,5 @@
   "keywords": [],
   "author": "Umar",
   "license": "MIT",
-  "dependencies": {
-    "node-assignment-04": "^1.0.2"
-  }
+  "dependencies": {}
 }
